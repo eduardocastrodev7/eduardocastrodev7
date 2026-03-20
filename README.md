@@ -1,12 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Eduardo+Castro&fontSize=52&fontColor=00FF88&fontAlignY=38&desc=Full+Stack+Developer+%7C+Shopify+Expert&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-
-<a href="https://eduardocastro-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF88&center=true&vCenter=true&width=600&lines=Eduardo+Castro+(Duardo);Full+Stack+Developer;Shopify+%2F+Liquid+Expert;Co-founder+%40+Cecília+Digital" alt="Typing SVG"/>
-</a>
 
 <br/>
 <br/>
